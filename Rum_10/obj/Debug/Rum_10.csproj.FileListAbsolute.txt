@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\bin\Debug\Rum_10.exe.config
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\bin\Debug\Rum_10.exe
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\bin\Debug\Rum_10.pdb
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\Rum_10.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\MainWindow.g.cs
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\App.g.cs
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\Rum_10_MarkupCompile.cache
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\Rum_10_MarkupCompile.lref
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\MainWindow.baml
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\Rum_10.g.resources
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\Rum_10.Properties.Resources.resources
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\Rum_10.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\Rum_10.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\Rum_10.exe
+C:\Users\Виктория\Desktop\Rum_10\Rum_10\obj\Debug\Rum_10.pdb
